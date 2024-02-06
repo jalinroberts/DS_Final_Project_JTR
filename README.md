@@ -4,3 +4,5 @@ This repository is to include all relevant information, files, and documentation
 Update - January 15, 2024: Submitted Senior Project proposal, rough outline for what to expect for the project and relevant information is included in this submission.
 
 Update - January 28, 2024: Uploaded Senior Project proposal 2.
+
+Update - Febuary 5, 2024: Uploaded Exploratory Data Analysis.
