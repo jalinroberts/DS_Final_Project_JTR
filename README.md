@@ -5,4 +5,4 @@ Update - January 15, 2024: Submitted Senior Project proposal, rough outline for 
 
 Update - January 28, 2024: Uploaded Senior Project proposal 2.
 
-Update - Febuary 5, 2024: Uploaded Exploratory Data Analysis.
+Update - Febuary 5, 2024: Uploaded Exploratory Data Analysis (DS_EDA_JTR.pdf, EDA.ipynb, merged_file.csv, merged_stocks.csv, Stock_Selections.ipynb)
