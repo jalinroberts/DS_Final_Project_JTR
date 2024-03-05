@@ -6,3 +6,5 @@ Update - January 15, 2024: Submitted Senior Project proposal, rough outline for 
 Update - January 28, 2024: Uploaded Senior Project proposal 2.
 
 Update - Febuary 5, 2024: Uploaded Exploratory Data Analysis (DS_EDA_JTR.pdf, EDA.ipynb, merged_file.csv, merged_stocks.csv, Stock_Selections.ipynb)
+
+Update - March 5, 2024: Uploaded Preliminary Predictive Analytics Model, also included a short Model Report detailed objectives and impact. All comments and code are contained within the single .ipynb file. Also included the merged_stocks_new .csv file as it was the new file used for this model.
