@@ -12,3 +12,5 @@ Update - March 5, 2024: Uploaded Preliminary Predictive Analytics Model, also in
 Update - March 5, 2024: Re-Uploaded Preliminary Predictive Analytics Model. Model preview in GitHub is not showing the confidence interval/line graph plot, file much be downloaded in order to view this. I am not sure what is causing this, however I am noting it here.
 
 Update - March 12, 2024: Uploaded first draft of poster presentation (DS_POSTER_JTR)
+
+Update - April 23, 2024: Uploaded final version of analytics model.
